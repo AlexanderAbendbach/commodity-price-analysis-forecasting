@@ -38,19 +38,16 @@ Commodity forecasting is difficult because prices and returns are noisy and affe
 Python, pandas, NumPy, matplotlib, seaborn, scikit-learn, statsmodels, XGBoost, HDBSCAN, Jupyter Notebook.
 
 ## Folder structure
-'''text
 
-| --- Data\
-    | --- Processed data\
-    | --- Raw data\
-| --- Figures\
-| --- Notebooks\
-    | --- Data analysis for non-food commodities - Part 1 (ETL).ipynb
-    | --- Data analysis for non-food commodities - Part 2 (EDA).ipynb
-    | --- Data analysis for non-food commodities - Part 3 (Forecasting).ipynb
-| --- requirements.txt
-
-''''
+- Data
+    - Processed data
+    - Raw data
+- Figures
+- Notebooks
+    - Data analysis for non-food commodities - Part 1 (ETL).ipynb
+    - Data analysis for non-food commodities - Part 2 (EDA).ipynb
+    - Data analysis for non-food commodities - Part 3 (Forecasting).ipynb
+- requirements.txt
 
 ## How to Run
 
